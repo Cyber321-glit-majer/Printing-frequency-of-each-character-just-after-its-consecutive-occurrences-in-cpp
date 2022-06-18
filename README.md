@@ -4,10 +4,10 @@ c++
 **PROBLEM STATEMENT**
 Given a string in such a way that every character occurs in a repeated manner. Your task is to print the string by inserting the frequency of each unique character after it and also eliminating all repeated characters.
 
-**INPUT**
+**INPUT: **
 aaabbbbbcccaaa
 
-**OUTPUT**
+**OUTPUT: **
 a3b5c3a3
 
 **code**
